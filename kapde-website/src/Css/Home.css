@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Fredoka+One&display=swap');
+
+body
+{
+  background-color: #EAE0D5;
+  font-family: "Aboreto";
+  font-weight: bold ;
+  font-size: 20px;
+}
+
+.MostViewedTitle
+{
+  text-align: center;
+  margin-top: 2%;
+}
+
+.MostViewed
+{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 70%; 
+  margin-left: 15%;
+  margin-top: 3%;
+}
+
+.Colorforcard
+{
+  background-color: #C6AC8F;
+
+}
+
+.NewArrivalsTitle
+{
+  text-align: center;
+  margin-top: 8%;
+}
+
+.NewArrivals
+{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+
