@@ -20,23 +20,23 @@ function App() {
 
         <Routes>
           <Route exact path='/mens' element={<Mens />}>
-            
+
           </Route>
           <Route exact path='/women' element={<Women />}>
-            
+
           </Route>
           <Route exact path='/kids' element={<Kids />}>
-            
+
           </Route>
 
-          <Route exact path='/login' element={ <Login />}>
-           
+          <Route exact path='/login' element={<Login />}>
+
           </Route>
           <Route exact path='/your_contacts' element={<Your_orders />}>
-            
+
           </Route>
-          <Route exact path='/cart' element={ <Cart />}>
-           
+          <Route exact path='/cart' element={<Cart />}>
+
           </Route>
         </Routes>
       </Router>

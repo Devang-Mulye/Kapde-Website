@@ -9,28 +9,27 @@ body
 }
 
 .header {
-  background-color: #EAE0D5 ;
-  height: 40vh;
+  background-color: #C6AC8F ;
+  background: radial-gradient(#a79780,#fae5cd);
+  height: 8vh;
+  
 }
 
-.header_img{
-position: absolute;
-height: 40vh;
-width: 100%;
-
-}
+ 
 
 .nav_bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   position: sticky;
+  padding-top: 7px;
+  vertical-align: baseline;
 
 }
 
-.logo img {
+.logo_img {
   height: 40px;
-  width: 40px;
+  width: 70px;
   margin-left: 10px;
 
 }
@@ -74,5 +73,21 @@ width: 100%;
 }
 
 li a{
+  color:#EAE0D5;
+  text-decoration:none;
+}
+
+li a:hover{
   color:#5E503F;
+}
+
+
+.button_nav{
+  background-color: #5E503F;
+  border-color: #5E503F;
+  border-radius:20px ;
+}
+
+.button_nav:hover{
+  background-color: #EAE0D5;
 }
