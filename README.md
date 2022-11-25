@@ -1,2 +1,2 @@
 # Kapde-Website
-This is for kapde named website by Devang and Parakh
+This is a 'kapde' named website by Devang and Parakh
